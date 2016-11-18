@@ -1,0 +1,34 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-01-16 11:38:58 --> Severity: Notice  --> Undefined variable: category_id /home/fishwqrb/public_html/admin/application/controllers/baang.php 1022
+ERROR - 2016-01-16 11:39:02 --> Severity: Notice  --> Undefined index: delivery_time /home/fishwqrb/public_html/admin/application/views/order/newordergrid.php 110
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: q /home/fishwqrb/public_html/admin/application/views/product/productautocompletion.php 5
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 107
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 120
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 124
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: disable /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 124
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 125
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 127
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: category_id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 143
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: sub_category_id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 169
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: product_name /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 187
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: price /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 210
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: unit /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 232
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: description /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 258
+ERROR - 2016-01-16 17:27:12 --> Severity: Notice  --> Undefined variable: availability /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 279
+ERROR - 2016-01-16 17:28:33 --> Severity: Notice  --> Undefined index: extension /home/fishwqrb/public_html/admin/application/controllers/baang.php 712
+ERROR - 2016-01-16 17:28:33 --> Severity: Notice  --> Undefined variable: i /home/fishwqrb/public_html/admin/application/controllers/baang.php 713
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: q /home/fishwqrb/public_html/admin/application/views/product/productautocompletion.php 5
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 107
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 120
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 124
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: disable /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 124
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 125
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: photo /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 127
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: category_id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 143
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: sub_category_id /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 169
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: product_name /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 187
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: price /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 210
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: unit /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 232
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: description /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 258
+ERROR - 2016-01-16 17:28:34 --> Severity: Notice  --> Undefined variable: availability /home/fishwqrb/public_html/admin/application/views/product/productmanage.php 279
