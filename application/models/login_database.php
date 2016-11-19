@@ -10,8 +10,10 @@ Class Login_Database extends CI_Model {
 public function login($data) {
 $email=$data['username'];
 $password=md5($data['password']);
-$query=$this->db->query("SELECT * FROM employee WHERE username = '$email' and password='$password'");
+$query=$this->db->query("SELECT * FROM customer WHERE emailid = '$email' and password='$password'");
+
 if ($query->num_rows() == 1) {
+	
 return true;
 } else {
 return false;
@@ -21,9 +23,9 @@ return false;
 // Read data from database to show data in admin page
 public function read_user_information($username) {
 
-$condition = "username =" . "'" . $username . "'";
+$condition = "emailid =" . "'" . $username . "'";
 $this->db->select('*');
-$this->db->from('employee');
+$this->db->from('customer');
 $this->db->where($condition);
 $this->db->limit(1);
 $query = $this->db->get();

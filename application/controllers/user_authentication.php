@@ -35,7 +35,7 @@ $this->form_validation->set_rules('username', 'Username', 'trim|required|xss_cle
 $this->form_validation->set_rules('password', 'Password', 'trim|required|xss_clean');
 
 if ($this->form_validation->run() == FALSE) {
-if(isset($this->session->userdata['logged_in_baang_panel'])){
+if(isset($this->session->userdata['logged_in_event_panel'])){
 
 $this->load->view('v_main');
 }else{
@@ -57,7 +57,7 @@ $session_data = array(
 'email' => $result[0]->email,
 );
 // Add user data in session
-$this->session->set_userdata('logged_in_baang_panel', $session_data);
+$this->session->set_userdata('logged_in_event_panel', $session_data);
 header("location: ".site_url()."/welcome/index");
 }
 } else {
@@ -76,7 +76,7 @@ public function logout() {
 $sess_array = array(
 'username' => ''
 );
-$this->session->unset_userdata('logged_in_baang_panel', $sess_array);
+$this->session->unset_userdata('logged_in_event_panel', $sess_array);
 $data['message_display'] = 'Successfully Logout';
 $this->load->view('login_form', $data);
 }

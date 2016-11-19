@@ -40,7 +40,17 @@
 
 $route['default_controller'] = "baang";
 $route['404_override'] = '';
-
+$route['about-us'] = 'baang/about_us';
+$route['contact-us'] = 'baang/contact_us';
+$route['testimonial'] = 'baang/testimonial';
+$route['faq'] = 'baang/faq';
+$route['cart'] = 'baang/cart';
+$route['checkout'] = 'baang/checkout';
+$route['logout'] = 'baang/logout';
+$route['category/(:any)'] = 'baang/category/$1';
+$route['profile-(:num)'] = 'baang/profile/$1';
+$route['privacy-policy'] = 'baang/privacypolicy';
+$route['terms-conditions'] = 'baang/terms_conditions';
 
 /* End of file routes.php */
 /* Location: ./application/config/routes.php */

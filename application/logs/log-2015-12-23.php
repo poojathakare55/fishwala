@@ -1,1739 +1,529 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
 
-ERROR - 2015-12-23 07:32:43 --> Session: HMAC mismatch. The session cookie data did not match what was expected.
-ERROR - 2015-12-23 07:32:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:32:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:32:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:32:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:32:51 --> Severity: Warning  --> include(C:\xampp\htdocs\tourism\admin\application\views): failed to open stream: Permission denied C:\xampp\htdocs\tourism\admin\application\views\v_main.php 142
-ERROR - 2015-12-23 07:32:51 --> Severity: Warning  --> include(): Failed opening 'application/views/' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\tourism\admin\application\views\v_main.php 142
-ERROR - 2015-12-23 07:33:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:33:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\country\countrymanage.php 47
-ERROR - 2015-12-23 07:33:00 --> Severity: Notice  --> Undefined variable: country_name C:\xampp\htdocs\tourism\admin\application\views\country\countrymanage.php 58
-ERROR - 2015-12-23 07:33:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 07:33:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 07:33:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 07:33:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 41
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 62
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined variable: category_name C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 73
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 07:33:03 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 07:33:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 33
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: company_name C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 53
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: email_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 76
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 96
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: address C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 115
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined variable: contact_no C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 137
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 07:33:05 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 07:33:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 82
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 95
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 100
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 118
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 139
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 164
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 182
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 204
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 228
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 248
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 07:33:13 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 07:38:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:32:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:32:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:32:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:32:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:32:10 --> Severity: Warning  --> include(C:\xampp\htdocs\tourism\admin\application\views): failed to open stream: Permission denied C:\xampp\htdocs\tourism\admin\application\views\v_main.php 142
-ERROR - 2015-12-23 11:32:10 --> Severity: Warning  --> include(): Failed opening 'application/views/' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\tourism\admin\application\views\v_main.php 142
-ERROR - 2015-12-23 11:34:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 82
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 95
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 99
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 99
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 100
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 102
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 118
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 139
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 164
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 182
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 204
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 228
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 248
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:34:09 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:34:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 82
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 95
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 99
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 99
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 100
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 102
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 118
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 139
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 164
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 182
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 204
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 228
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 248
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:34:11 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:34:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 82
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 95
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 100
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 118
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 139
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 164
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 182
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 204
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 228
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 248
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:34:13 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:34:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 33
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: company_name C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 53
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: email_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 76
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 96
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: address C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 115
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined variable: contact_no C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 137
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:34:14 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:41:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 82
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 95
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 100
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 118
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 139
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 164
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 182
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 204
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 228
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 248
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:41:48 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:44:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 208
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 233
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 253
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:44:38 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:45:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 208
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 233
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 253
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:45:08 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:45:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 208
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 233
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 253
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:45:11 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:45:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 208
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 233
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 253
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:45:27 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:45:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:45:43 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:48:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:48:27 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:48:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:48:36 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:48:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:48:54 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:50:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:50:32 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:51:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:51:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:51:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:51:02 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:51:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:51:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 86
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 99
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 122
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 143
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 168
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 186
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 209
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 232
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 252
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:51:03 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:52:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 87
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 100
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 104
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 105
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 123
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 144
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 169
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 187
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 210
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 233
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 253
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:52:44 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:53:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 85
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 98
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 105
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 121
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 142
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 167
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 185
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 208
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 231
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 251
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:53:01 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:54:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 236
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 256
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:54:56 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:55:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 236
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 256
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:55:36 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:55:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 235
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 255
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:55:57 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:56:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 85
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 98
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 103
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 105
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 121
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 142
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 167
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 185
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 207
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 231
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 251
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:56:29 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:59:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 235
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 255
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:59:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:59:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 511
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 512
-ERROR - 2015-12-23 11:59:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 235
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 255
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:59:24 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:59:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 89
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 102
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 106
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 107
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 125
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 146
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 171
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 189
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 211
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 235
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 255
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 11:59:44 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 11:59:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:02:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 95
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 108
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 112
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 112
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 115
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 131
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 152
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 177
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 195
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 217
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 241
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 261
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:02:07 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:02:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:03:05 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:03:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 511
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 512
-ERROR - 2015-12-23 12:03:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:03:29 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:03:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:03:38 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:03:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:03:43 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:04:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:04:28 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:04:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 94
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 107
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 112
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 114
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 130
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 151
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 176
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 194
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 216
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 240
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 260
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:04:44 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:04:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 702
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 703
-ERROR - 2015-12-23 12:05:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 94
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 107
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 112
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 114
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 130
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 151
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 176
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 194
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 216
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 240
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 260
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 94
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 107
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 111
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 112
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 114
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 130
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 151
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 176
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 194
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 216
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 240
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\agenda\agendamanage.php 260
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:05 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 93
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 106
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 111
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 113
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 129
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 150
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 175
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 193
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 215
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 239
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 259
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:07 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 877
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 878
-ERROR - 2015-12-23 12:05:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 93
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 106
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 111
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 113
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 129
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 150
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 175
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 193
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 215
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 239
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 259
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:21 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 93
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 106
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 110
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 111
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 113
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 129
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 150
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 175
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 193
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 215
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 239
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\coperation\coperationmanage.php 259
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:26 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 41
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 62
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined variable: category_name C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 73
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:37 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 33
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: company_name C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 53
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: email_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 76
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 96
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: address C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 115
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined variable: contact_no C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 137
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:39 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:05:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:05:58 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:06:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 33
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: company_name C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 53
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: email_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 76
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 96
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: address C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 115
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined variable: contact_no C:\xampp\htdocs\tourism\admin\application\views\company\companymanage.php 137
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:06:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:16:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:16:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:36:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 329
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 348
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 372
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 396
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:36:43 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:37:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:37:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 329
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 348
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 372
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 396
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:37:11 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:37:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 329
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 349
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 373
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 397
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:37:53 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:38:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 329
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 349
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 373
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 397
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:38:23 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:39:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:39:10 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:40:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:41:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:41:13 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:41:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:42:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 1070
-ERROR - 2015-12-23 12:42:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:42:02 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:42:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:42:48 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:43:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:06 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:06 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:43:06 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:43:06 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:43:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:43:17 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:43:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:20 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:20 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:43:20 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:43:20 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:43:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:43:30 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:43:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:43:35 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:45:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:45:32 --> 404 Page Not Found --> tourism/announcementmanage
-ERROR - 2015-12-23 12:50:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:50:50 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:51:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 1268
-ERROR - 2015-12-23 12:52:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:03 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:52:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:08 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:08 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:08 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:08 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:52:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:13 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:52:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:19 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:52:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:24 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:52:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:52:25 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:55:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:55:29 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:56:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:56:00 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:56:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:56:24 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:57:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 1268
-ERROR - 2015-12-23 12:58:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:58:08 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:58:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:19 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:19 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:58:19 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:58:19 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:58:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:58:25 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 12:58:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 1267
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 1268
-ERROR - 2015-12-23 12:58:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 12:58:44 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 13:00:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 83
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 85
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 86
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 87
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 89
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 91
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 92
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 93
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 94
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 95
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 96
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 97
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 98
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 99
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 118
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 119
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 83
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 85
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 86
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 87
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 89
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 91
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 92
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 93
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 94
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 95
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 96
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 97
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 98
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 99
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 118
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 119
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 83
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 85
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 86
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 87
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 89
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 91
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 92
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 93
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 94
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 95
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 96
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 97
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 98
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 99
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 118
-ERROR - 2015-12-23 13:00:07 --> Severity: Notice  --> Undefined index: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementgrid.php 119
-ERROR - 2015-12-23 13:00:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:00:35 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:00:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:00:42 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:01:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 13:01:11 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 13:01:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:01:15 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:01:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:01:20 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:01:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 13:01:32 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 13:02:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined index: condition C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 44
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined index: limit C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 45
-ERROR - 2015-12-23 13:02:03 --> Severity: Notice  --> Undefined index: offset C:\xampp\htdocs\tourism\admin\application\models\tourism_model.php 46
-ERROR - 2015-12-23 13:04:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:04:10 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:04:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 511
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 512
-ERROR - 2015-12-23 13:04:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:04:31 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:04:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined index: extension C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 511
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: i C:\xampp\htdocs\tourism\admin\application\controllers\tourism.php 512
-ERROR - 2015-12-23 13:04:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:04:47 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:04:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:04:57 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:05:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:05:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:05:02 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 13:53:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 96
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 109
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 113
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 114
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 116
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: title C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 132
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 153
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 178
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 196
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 218
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 242
-ERROR - 2015-12-23 13:53:53 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\news\newsmanage.php 262
-ERROR - 2015-12-23 15:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:06 --> Severity: Warning  --> include(C:\xampp\htdocs\tourism\admin\application\views): failed to open stream: Permission denied C:\xampp\htdocs\tourism\admin\application\views\v_main.php 144
-ERROR - 2015-12-23 15:46:06 --> Severity: Warning  --> include(): Failed opening 'application/views/' for inclusion (include_path='.;C:\xampp\php\PEAR') C:\xampp\htdocs\tourism\admin\application\views\v_main.php 144
-ERROR - 2015-12-23 15:46:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:31 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\country\countrymanage.php 47
-ERROR - 2015-12-23 15:46:31 --> Severity: Notice  --> Undefined variable: country_name C:\xampp\htdocs\tourism\admin\application\views\country\countrymanage.php 58
-ERROR - 2015-12-23 15:46:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:35 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 41
-ERROR - 2015-12-23 15:46:35 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 62
-ERROR - 2015-12-23 15:46:35 --> Severity: Notice  --> Undefined variable: category_name C:\xampp\htdocs\tourism\admin\application\views\category\categorymanage.php 73
-ERROR - 2015-12-23 15:46:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 96
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 109
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 113
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 114
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 116
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: event_name C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 132
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 153
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 178
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: event_date C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 196
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 218
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 241
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 263
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 285
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 309
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 333
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 357
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 380
-ERROR - 2015-12-23 15:46:37 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\events\eventsmanage.php 400
-ERROR - 2015-12-23 15:46:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 96
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 109
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: disable C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 113
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 114
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: photo C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 116
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: announcement_name C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 132
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: country_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 153
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: category_id C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 178
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: announcement_date C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 196
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: fees C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 218
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: no_of_participants C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 241
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: startdate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 263
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: enddate C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 285
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: venue C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 309
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: history C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 333
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: description C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 357
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: priority C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 380
-ERROR - 2015-12-23 15:46:48 --> Severity: Notice  --> Undefined variable: display C:\xampp\htdocs\tourism\admin\application\views\announcement\announcementmanage.php 400
-ERROR - 2015-12-23 15:47:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\admin\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:54:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:54:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:55:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:56:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:56:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:57:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:58:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:58:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:58:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:58:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:59:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:59:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 13:59:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:01:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:02:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:02:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:02:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:03:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:03:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:03:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:03:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:04:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:08:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:11:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:13:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:14:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:27 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:15:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:20 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:16:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:28 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:16:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:40 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:42 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:16:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:16:52 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:17:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:41 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:17:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:48 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:17:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:54 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:17:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:17:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:18:00 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:19:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:19:19 --> Severity: Notice  --> Undefined variable: cookie_country_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:19 --> Severity: Notice  --> Undefined variable: cookie_category_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:21 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:19:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:19:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:19:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:19:25 --> Severity: Notice  --> Undefined variable: cookie_country_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:25 --> Severity: Notice  --> Undefined variable: cookie_category_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:26 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:19:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:19:29 --> Severity: Notice  --> Undefined variable: cookie_country_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:29 --> Severity: Notice  --> Undefined variable: cookie_category_id C:\xampp\htdocs\tourism\application\views\v_main.php 6
+ERROR - 2015-12-23 14:19:31 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:20:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:30 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:20:32 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:20:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:35 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:20:36 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:20:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:42 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:20:45 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:20:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:20:50 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:20:52 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:23:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:23:47 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:23:49 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:23:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:23:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:23:51 --> Severity: Notice  --> Undefined variable: data C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 14:23:52 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:24:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:24:59 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:25:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:04 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:25:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:09 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:25:10 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:26:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:27:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:31:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:21 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> css
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> components
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:31:23 --> 404 Page Not Found --> js
+ERROR - 2015-12-23 14:33:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:33:12 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:33:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:33:36 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:34:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:34:32 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:37:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:37:52 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:38:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:38:09 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:38:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:38:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:38:16 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:39:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:39:24 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:39:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:39:54 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:40:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:09 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:40:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:40:46 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:43:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:43:13 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:46:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:46:24 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:46:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:46:41 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:50:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:50:05 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:50:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:50:57 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:51:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:51:24 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:52:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:52:56 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:53:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:53:43 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:56:39 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:56:40 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 14:56:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:57:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:57:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:57:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:57:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:58:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:58:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 14:59:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:00:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:01:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:02:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:08:17 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:08:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:08:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:09:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:10:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:10:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:10:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:10:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:10:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:11:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:11:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:13:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:13:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:14:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:15 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:15 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:19:21 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:21 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:21 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:19:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:23 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:23 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:19:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:51 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:51 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:19:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:54 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:54 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:19:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:19:55 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:19:55 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:20:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:20:49 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:20:49 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:20:52 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:20:52 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:20:52 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:20:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:20:54 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 28
+ERROR - 2015-12-23 15:20:54 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 31
+ERROR - 2015-12-23 15:20:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:20:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:20:55 --> 404 Page Not Found --> tourism/images
+ERROR - 2015-12-23 15:21:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:28 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:28 --> 404 Page Not Found --> tourism/images
+ERROR - 2015-12-23 15:21:35 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:21:38 --> 404 Page Not Found --> tourism/images
+ERROR - 2015-12-23 15:23:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:14 --> 404 Page Not Found --> tourism/images
+ERROR - 2015-12-23 15:23:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:25 --> 404 Page Not Found --> tourism/images
+ERROR - 2015-12-23 15:23:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:23:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:24:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:25:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:25:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:25:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:25:48 --> 404 Page Not Found --> index
+ERROR - 2015-12-23 15:26:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:17 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:26:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:22 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:24 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:26:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:36 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:26:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:26:47 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:27:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:28:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:28:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:28:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:28:03 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:28:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:28:19 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:31:19 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:22 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:31:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:26 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:31:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:36 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:31:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:42 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:31:45 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:34:56 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:57 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:34:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:34:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:35:00 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:35:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:35:09 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:35:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:35:58 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:36:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:37:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:37:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:37:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:37:50 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:37:51 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:38:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:32 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:39:32 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:39:36 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:36 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:39:36 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:39:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:37 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:39:37 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:39:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:38 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:39:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:39:48 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:39:48 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:40:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:00 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:40:00 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:40:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:03 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:40:03 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:40:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:06 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:40:06 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:40:06 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:07 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:40:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:40:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:14 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:33 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:43 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:45 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:46 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:41:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:42:16 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:42:16 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:42:16 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:43:05 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:43:05 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:43:05 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:43:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:43:13 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:43:13 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:43:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:43:15 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:43:15 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:43:15 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:43:16 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:43:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:43:26 --> 404 Page Not Found --> images
+ERROR - 2015-12-23 15:45:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:45:25 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:45:25 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:45:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:45:32 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:45:32 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:45:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:45:37 --> Severity: Notice  --> Undefined variable: session_country_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 29
+ERROR - 2015-12-23 15:45:37 --> Severity: Notice  --> Undefined variable: session_category_id C:\xampp\htdocs\tourism\application\controllers\tourism.php 32
+ERROR - 2015-12-23 15:45:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\xampp\htdocs\tourism\system\database\drivers\mysql\mysql_driver.php 92
+ERROR - 2015-12-23 15:45:38 --> 404 Page Not Found --> images
